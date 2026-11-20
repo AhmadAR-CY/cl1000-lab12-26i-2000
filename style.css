@@ -1,0 +1,78 @@
+
+
+body {
+    background-color: #f0f4f8;
+    font-family: Arial, sans-serif;
+}
+
+
+#card-ahmad {
+    width: 350px;
+    margin: 40px auto;
+    background-color: white;
+    border: 2px solid gray;
+    border-radius: 12px;
+}
+
+#card-header {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+h1 {
+    font-size: 22px;
+}
+
+p {
+    font-size: 14px;
+}
+
+.card-body {
+    padding: 20px;
+    text-align: center;
+}
+
+
+#photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    margin: 10px;
+}
+
+
+.info-row {
+    display: flex;
+    gap: 15px;
+    text-align: left;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid gray;
+}
+
+.label {
+    width: 110px;
+    font-weight: bold;
+    color: gray;
+}
+
+
+.value {
+    color: black;
+}
+
+
+#card-footer {
+    background-color: #f0f4f8;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid gray;
+}
+
+.motto {
+    color: gray;
+}
